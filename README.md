@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AngieWong630
-- 👀 I’m interested in 
+- 👀 I’m interested in building the app and website.
 - 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...just follow me
 
 <!---
 AngieWong630/AngieWong630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
